@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to react-recoil-example 👋</h1>
 
-> A simple react recoil example
+> A simple react [recoil](https://recoiljs.org/) example
 
 ## Install
 
