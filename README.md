@@ -2,6 +2,14 @@
 
 > A simple react [recoil](https://recoiljs.org/) example
 
+<details>
+  <summary>Demo</summary>
+  <br>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/37296364/169398155-0f7e8d9c-1599-4025-aae0-be23bd74292f.gif">
+  </p>
+</details>
+
 ## Install
 
 ```sh
